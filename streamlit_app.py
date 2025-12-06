@@ -71,19 +71,19 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": [""],
-       "images": [""],
-       "videos": [""]
+       "texts": ["남세균(藍細菌) 또는 남조세균(藍藻細菌)은 광합성을 통해 산소를 만드는 세균을 일컬으며, 라틴어 계열의 언어로는 시아노박테리아(cyanobacteria)라고 한다. 이전에는 남조류(藍藻類, blue-green algae)라고 부르고 진핵생물로 분류하였으나 현재는 원핵생물로 분류하고 있다. 물이 있는 곳 어디든지 살 수 있다."],
+       "images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEwMTNfMTAz%2FMDAxNjM0MDk5NzQyMDgz.5rbTEn4qflGapK_AhJ-Gx-7s7JOZM_OuQBfXj0B-rA0g.5QRtUPEYcjNO2SEeLBB0lW4zRR4oAzZEuMSKTSj8Qbwg.JPEG.kopriblog%2F%25B3%25B2%25BC%25BC%25B1%25D5.jpg&type=sc960_832"],
+       "videos": ["https://youtu.be/81BGHZvVwHs?si=nXQ0EFUML7dKUXYN"]
      },
      labels[1]: {
-       "texts": [""],
-       "images": [""],
-       "videos": [""]
+       "texts": ["대장균(大腸菌, Escherichia coli, E. coli)은 온혈동물의 창자(대장과 소장)에서 많이 볼 수 있는 박테리아이다. 대장균 자체는 인체에 해롭지 않다. 대부분의 대장균의 변종은 해롭지 않지만, 항원형 O157:H7등은 사람의 식중독을 일으키며, 가끔 대규모의 식품 리콜의 원인이 된다. 해롭지 않은 변종은 대장의 공생미생물이며 비타민 K2 등을 생산하여 이로움을 주기도 하며, 창자에서 병의 원인이 되는 박테리아의 번식을 막기도 한다"],
+       "images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F5878%2F2022%2F09%2F25%2F0000000519_001_20220925234004641.jpg&type=sc960_832"],
+       "videos": ["https://youtu.be/2gnHEYzROVA?si=hK9FRQpjg9UvYm6h"]
      },
      labels[2]: {
-       "texts": [""],
-       "images": [""],
-       "videos": [""]
+       "texts": ["포도상구균은 토양미생물로 대부분이 무해하다. 인간이나 여러 생물의 점막에서 찾아볼 수 있다. 그리고 각종 동물의 피부에 서식한다. 포도상구균에는 40종 이상이 존재한다. 이 중 9개에는 2개의 아종이 있고, 1개에는 3개의 아종이 있고, 1개에는 4개의 아종이 있다. 대부분 인체에 무해하다."],
+       "images": ["https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.namu.wiki%2Fi%2Fi9cLUBHPNINMxYqW0tAVMZsPYb8PovB-ZOnykzMKFBbC6VZGnQBehLj4vKinjjJ2J88_yDfl-nsJU3I8dCLGvA.webp&type=a340"],
+       "videos": ["https://youtu.be/bX_dRyRu2U4?si=k-Bhfa1isa5REJM0"]
      },
 }
 
